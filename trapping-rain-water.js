@@ -22,7 +22,7 @@ var trap = function(height) {
 
 
 /*  
-The provided JavaScript function, `trap`, is designed to solve the "Trapping Rain Water" problem. This problem involves finding the total volume of water that can be trapped between the heights of bars plotted on a graph. Here's a breakdown of how the function works:
+In this codebase,  JavaScript function, `trap`, is designed to solve the "Trapping Rain Water" problem. This problem involves finding the total volume of water that can be trapped between the heights of bars plotted on a graph. Here's a breakdown of how the function works:
 
 1. **Initialization**:
     - `left` and `right`: These pointers start at the beginning and the end of the `height` array respectively. They will be used to traverse the array from both ends towards the center.
