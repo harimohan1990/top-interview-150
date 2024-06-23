@@ -66,3 +66,4 @@ For an array of strings `["flower", "flow", "flight"]`:
 The longest common prefix is "fl".
 
 */
+
